@@ -1,2 +1,7 @@
+# Ignorar modelos pesados y carpetas
 models/
 *.joblib
+*.pkl
+
+# Ignorar entorno virtual
+venv/
