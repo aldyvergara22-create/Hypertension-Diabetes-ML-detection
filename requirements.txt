@@ -1,0 +1,15 @@
+# --- MANIPULACIÓN DE DATOS ---
+pandas==3.0.5
+numpy==2.4.6
+
+# --- VISUALIZACIÓN DE DATOS ---
+Matplotlib==3.11.1
+Seaborn==0.13.2
+
+# --- MACHINE LEARNING ---
+sklearn==1.9.0
+xgboost==3.3.0
+Imbalanced-learn==0.14.2
+
+# --- INTERPRETACIÓN DE MODELOS ---
+shap==0.52.0
