@@ -1,6 +1,6 @@
 # ML Clinical Screening: Predicción de Hipertensión (HTA) y Diabetes Mellitus Tipo 2 (DM2)
 
-Este repositorio contiene la implementación completa del proyecto de Machine Learning orientado al cribado clínico temprano de Hipertensión Arterial (HTA) y Diabetes Mellitus Tipo 2 (DM2) utilizando datos epidemiológicos de salud píblica.
+Este repositorio contiene la implementación completa del proyecto de Machine Learning orientado al cribado clínico temprano de Hipertensión Arterial (HTA) y Diabetes Mellitus Tipo 2 (DM2) utilizando datos epidemiológicos de salud pública
 
 ## Objetivo del Proyecto
 
@@ -79,6 +79,12 @@ jupyter notebook
 
 Se recomienda ejecutar los cuadernos en el orden numérico indicado (00 a 08). Al ejecutar los notebooks 03 y 04 se volverán a generar los modelos en el directorio models/.
 
+## Fuente de Datos y Licencia
+Los datos utilizados provienen de la **Encuesta de Salud de España (ESdE 2023)**, elaborada con fines de investigación y salud pública. 
+
+- **Origen de los datos:** Microdatos públicos de las encuestas nacionales de salud.
+- **Anonimización:** El conjunto de datos no contiene información de identificación personal (PII).
+- 
 ## Autor
 
 Proyecto desarrollado como Trabajo de Fin de Grado enfocado en la aplicación de Machine Learning a la salud pública.
